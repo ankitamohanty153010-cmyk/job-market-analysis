@@ -170,7 +170,7 @@ with st.sidebar:
     page = st.radio("Navigation", ["Job Recommendation System", "Quick Statistics"], label_visibility="collapsed")
     st.markdown("---")
     st.markdown("### 👩‍💻 Developed by")
-    st.markdown("**Ankita Vaghela**")
+    st.markdown("**Ankita Mohanty**")
     st.caption("Job Market Analysis & Recommendation System")
 
 st.markdown(

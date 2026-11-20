@@ -1,0 +1,17 @@
+# Local data and environment
+*.csv
+*.parquet
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit and notebook state
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
